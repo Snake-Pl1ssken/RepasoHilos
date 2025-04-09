@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "RepasoHilos/1.0.0": {
+        "runtime": {
+          "RepasoHilos.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RepasoHilos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
